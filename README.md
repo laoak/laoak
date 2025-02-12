@@ -1,6 +1,7 @@
   
-<div> 
-   <a href="htt## Olá eu sou a Lara Coelho!
+## Olá eu sou a Lara Coelho! 🙋🏾‍♀️
+Estudante de comunicação social e apaixonada por tecnologia, minha meta é me aprofundar mais na parte prática sobre a IA dentro da Comunicação e Marketing.
+Iniciei minha trajetória com os famosos CSS, HTML e JavaScript mas agora estou indo mais para a área de dados e IA, o importante é não parar rs! 🚀
 
 
 <div style="display: inline_block"><br>
@@ -23,4 +24,4 @@
  
   ![Snake animation](https://github.com/laoak/laoak/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
